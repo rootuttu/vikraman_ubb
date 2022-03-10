@@ -1,4 +1,4 @@
-FROM theteamultroid/ultroid:main
+FROM ghcr.io/amirulandalib/whatisthis:latest
 
 # set timezone
 ENV TZ=Asia/Kolkata
